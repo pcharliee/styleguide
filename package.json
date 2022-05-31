@@ -1,0 +1,21 @@
+{
+  "name": "styleguide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "grunt_config.js",
+  "scripts": {
+    "start": "cd dev && npm install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcharliee/styleguide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pcharliee/styleguide/issues"
+  },
+  "homepage": "https://github.com/pcharliee/styleguide#readme"
+}
