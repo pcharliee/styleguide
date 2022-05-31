@@ -1,5 +1,5 @@
 {
-  "name": "styleguide",
+  "name": "init-styleguide",
   "version": "1.0.0",
   "description": "",
   "main": "grunt_config.js",

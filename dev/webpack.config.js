@@ -5,7 +5,7 @@ module.exports = {
   entry: '../src/defaults.js',
   devtool: false,
   output: {
-    path: path.join(__dirname, '../src'),
+    path: path.join(__dirname, '../../../src'),
     filename: 'defaults.min.js'
   },
 };
