@@ -1,7 +1,7 @@
 {
   "name": "init-styleguide",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "Styleguide boilerplate. WIP",
   "main": "grunt_config.js",
   "scripts": {
     "start": "cd dev && npm install",
