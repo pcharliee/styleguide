@@ -1,6 +1,6 @@
 {
   "name": "init-styleguide",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Styleguide boilerplate. WIP",
   "main": "grunt_config.js",
   "scripts": {
